@@ -20,7 +20,7 @@ function Projects(){
              image: "./aquire.png",
           
             
-            technologies: [ "ryruiene", "hddkjd", "jddkkd"],
+            technologies: [ "HTML", "CSS", "Javascript"],
             link: "https://mighty2540.github.io/SPAProject/",
 
         },
@@ -30,7 +30,7 @@ function Projects(){
             title: "Ngumzo",
             description:"Social Media Application",
             image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2FH934Ti74x7MxtMSPEQTSNo7JcI05Cn2W6j6pvy7A&s=10",
-            technologies: [ "ryruiene", "hddkjd", "jddkkd"],
+            technologies: [ "HTML", "CSS", "Javascript"],
 
             link:"https://github.com/mighty2540/Chat-chatBox/settings"
         }
